@@ -2,13 +2,13 @@
 
 ## Installation
 
-- $ git clone https://github.com/tamhor/RestfulAPI-WebPortal
-- $ cd RestfulAPI-WebPortal
-- $ cp env .env
+- git clone https://github.com/tamhor/RestfulAPI-WebPortal
+- cd RestfulAPI-WebPortal
+- cp env .env
 - // setting your baseURL and databases, dont forget to remove #
-- $ php spark migrate
-- $ php spark db:seed (optional)
-- $ php spark serve
+- php spark migrate
+- php spark db:seed (optional)
+- php spark serve
 
 ## Server Requirements
 
